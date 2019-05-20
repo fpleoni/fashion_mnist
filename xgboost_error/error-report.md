@@ -1,11 +1,9 @@
-@jppereyra thanks for posting this
+@jppereyra thanks for posting this,
 @trivialfis thanks for jumping in so quickly, here's the script and data we're using.
-
-[TOC]
 
 ### Script
 
-Please note that this scripts uses sklearn.utils.parallel_backend to execute, and the exact same results can be reproduced using SequentialBackend with 1 process.
+Please note that this scripts uses sklearn.utils.parallel_backend, and the exact same results can be reproduced using SequentialBackend with 1 process.
 
 ~~~~python
 import pandas as pd
