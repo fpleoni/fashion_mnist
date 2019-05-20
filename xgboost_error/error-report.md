@@ -54,7 +54,7 @@ with open(pkl_filename, 'wb') as file:
 
 ### Input files
 
-fashion-mnist_train.csv (attached)
+https://github.com/fpleoni/fashion_mnist/blob/master/fashion-mnist_train.csv
 
 ### Output log
 
